@@ -17,7 +17,7 @@ h1 {
   text-align: center;
   font-size: 3rem;
   margin-top: 2rem;
-  color: #660033;
+  color: #ff0080;
 }
 
 /* Style scoreboard */
@@ -31,9 +31,9 @@ h1 {
   font-size: 2rem;
   margin: 0 1rem;
   padding: 0.5rem;
-  border: 2px solid #660033;
+  border: 2px solid #ff0080;
   border-radius: 10px;
-  color: #660033;
+  color: #ff0080;
 }
 
 /* Style choices */
@@ -44,7 +44,7 @@ h1 {
 }
 
 .choice {
-  border: 2px solid #660033;
+  border: 2px solid #ff0080;
   border-radius: 10px;
   margin: 0 2rem;
   padding: 2rem;
@@ -65,7 +65,7 @@ h1 {
 }
 
 .choice i {
-  color: #660033;
+  color: #ff0080;
   font-size: 50px;
 }
 
@@ -74,13 +74,13 @@ h1 {
   text-align: center;
   font-size: 2rem;
   margin-top: 2rem;
-  color: #660033;
+  color: #020202;
 }
 
 #computer-choice {
   text-align: center;
   font-size: 2rem;
-  color: #660033;
+  color: #0062ff;
 }
 
 /* Style timer */
@@ -88,7 +88,7 @@ h1 {
   text-align: center;
   font-size: 2rem;
   margin-top: 1rem;
-  color: #660033;
+  color: #000000;
 }
 
 /* Style play again button */
@@ -98,7 +98,7 @@ h1 {
   padding: 1rem 2rem;
   border: none;
   border-radius: 10px;
-  background-color: #660033;
+  background-color: #ff0080;
   color: #ffffff;
   font-size: 1.5rem;
   cursor: pointer;
@@ -106,7 +106,7 @@ h1 {
 }
 
 .play-again:hover {
-  background-color: #993366;
+  background-color: #04040490;
 }
 
 .play-again:active {
